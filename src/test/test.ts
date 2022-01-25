@@ -1,9 +1,8 @@
 var assert = require('assert');
 describe('Array', function() {
   describe('#indexOf()', function() {
-
     describe('more tests', function (){
-        it('case 1',function (){
+        it('case',function (){
             assert.strictEqual(1,1)
         })
     })
